@@ -1,5 +1,5 @@
 # Task 5 - Exploratory Data Analysis - Sports : 
-**Problem Statement** - To Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+**Problem Statement** - To perform Exploratory Data Analysis on the Indian Premier League dataset. As a sports analyst, identify the most successful teams and players, and analyze the key factors contributing to a team's win or loss.
 
 Dataset Link : https://bit.ly/34SRn3b
 <br>
