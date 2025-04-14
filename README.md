@@ -1,6 +1,5 @@
 <h2><ul><b></b>Exploratory Data Analysis: Indian Premier League (IPL)</b></ul></h2><br><br>
 <h3><b>📊 Project Overview </b></h3>  
-<br>
 This project involves a detailed exploratory analysis of IPL datasets spanning from 2008 to 2019, aimed at uncovering meaningful insights, patterns, and performance trends within the league.<br><br>
 
 <h3><b>🎯 Objective </b></h3>   
